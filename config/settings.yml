@@ -3,3 +3,8 @@ posting:
     client: true
     default: 32000
     max: 150000
+files:
+  max_attachment_size_kb:
+    client: true
+      default: 1024000
+      max: 6144000
